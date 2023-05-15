@@ -1,5 +1,5 @@
 <h1>Terribly Tiny Tale - React App</h1>
-<img src="https://github.com/Ritikraj73/TERRIBLY-TINY-TALES/blob/main/public/chart.jpeg">
+<img src="https://github.com/Ritikraj73/TERRIBLY-TINY-TALES/blob/main/public/chart.png">
 
 <h2>Libraries and Plugins used</h2>
 <ul>
